@@ -1,0 +1,175 @@
+ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+  margin-left: 30px;
+}
+.box h1 {
+  display: inline-block;
+  margin-left: 30px;
+}
+ul {
+  display: inline-block;
+  margin-left: 300px;
+}
+.box {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: black;
+  height: 2px;
+}
+
+.kontakt {
+  background-color: #55b4fd;
+  border-radius: 15px;
+  padding: 10px 10px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  text-align: center;
+  margin-top: 100px;
+  padding: 25px;
+  border: 1px solid black;
+  margin-left: 00px;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+}
+
+.card p {
+  width: 200px;
+}
+
+.box {
+  text-align: center;
+}
+
+.eros {
+  margin-top: 200px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.sem {
+  background-color: #55b4fd;
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+
+.let {
+  width: 500px;
+  height: 250px;
+}
+
+.sit {
+  text-align: center;
+}
+
+.quam {
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+}
+
+.card p {
+  width: 200px;
+}
+
+.box {
+  text-align: center;
+}
+
+.elit {
+  width: 600px;
+}
+
+.child-1,
+.child-2 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  width: 900px;
+}
+
+.box-2 {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.nullam-2 {
+  padding: 10px 15px;
+  width: 130px;
+  background-color: #55b4fd;
+  border-radius: 10px;
+  color: floralwhite;
+}
+
+.nullam-3 {
+  color: #55b4fd;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.nullam {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.sem {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 30px;
+}
+
+.sem-4 {
+  display: flex;
+  margin-top: 100px;
+}
+
+.sem4 {
+  flex-direction: row-reverse;
+}
+
+.sem-9 {
+  padding: 15px 20px;
+  background-color: #55b4fd;
+  width: 120px;
+  border-radius: 10 px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.sem-8 {
+  width: 600px;
+}
